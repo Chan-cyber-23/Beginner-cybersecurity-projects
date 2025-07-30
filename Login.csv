@@ -1,0 +1,6 @@
+user,timestamp,status
+alice,2023-05-01 08:00,success
+bob,2023-05-01 08:05,failed
+john,2023-05-01 08:10,failed
+mark,2023-05-01 08:12,success
+raj,2023-05-01 08:15,failed
